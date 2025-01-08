@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi 👋 I'm Nusrat Jahan</h1>
+<h1 align="center">Hi <span> <img src="./hi.gif" width="50px" height="50px" /> </span>  I'm Nusrat Jahan</h1>
 
 ###
 
