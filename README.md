@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi <span> <img src="./hi.gif" width="50px" height="50px" /> </span>  I'm Nusrat Jahan</h1>
+<h1 align="center">Hi  <img src="./hi.gif" width="50px" height="50px" />   I'm Nusrat Jahan</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me  <img src="./Technologist.webp" width="40px" height="40px" />  </h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">I code with</h3>
+<h2 align="left">I code with   <img src="./tools.gif" width="40px" height="40px" /> </h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">Connect With Me</h3>
+<h2 align="left">Connect With Me  <img src="./contact.gif" width="40px" height="40px" /> </h2>
 
 ###
 
