@@ -13,7 +13,7 @@
 ###
 
 <h2 align="left">About me  <img src="./Technologist.webp" width="40px" height="40px" />  </h2>
-<img width="55%" align="right" alt="Github" src="./girl.gif" />
+<img width="55%" align="right" alt="Github" src="./tools.gif" />
 
 ###
 
