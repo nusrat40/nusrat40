@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>💡 Exploring React & modern web development<br>📚 On a quest for knowledge, one line of code at a time<br>🎵 Life’s better with music, movies, and great code</p>
+<p align="left">✨ Creating bugs since 2024<br>💡 Exploring Next.js & modern web development<br>📚 On a quest for knowledge, one line of code at a time<br>🎵 Life’s better with music, movies, and great code</p>
 
 ###
 
@@ -56,7 +56,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nusrat-jahan-natasa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   <a href="https://www.facebook.com/nusratjahan.natasa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
