@@ -14,6 +14,10 @@
 
 <h2 align="left">About me  <img src="./Technologist.webp" width="40px" height="40px" />  </h2>
 
+###
+
+<p align="left">I am an aspiring Web Developer with a Passion for Building Interactive User Experiences. Enthusiastic about developing responsive and user-friendly websites, with experience in HTML, CSS, and JavaScript and frameworks like React, Bootstrap. I bring a fresh perspective and am eager to contribute to innovative projects while expanding my skills in modern web development. </p>
+
 
 ###
 
